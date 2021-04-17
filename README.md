@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi There Folks <img src="https://github.com/Jarjanazy/Jarjanazy/blob/main/cat.gif" width="60" height="60" />
 
-<!--
-**Jarjanazy/Jarjanazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Software developer, specializing on Java ☕ (Spring) and Vanilla 🧁 JavaScript as well as Python 🐍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to learn pretty much anything
+
+ - AI 🦾
+ - Blockchain ⛓
+ - Economics 📈
+ - History 🖌
+ - Languages 🎎
+
+I write weekly in a  [blog](https://dev.to/jarjanazy) on Dev.
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/abedeljalil-jarjanazy/) and [Twitter](https://twitter.com/cercenazi).
